@@ -476,7 +476,7 @@ public class calculadora extends javax.swing.JFrame {
                this.txtResultado.setText(sincero(numero7/numero8));
                break;}               
        }
-        
+        //a
     }//GEN-LAST:event_jButtonEqualActionPerformed
 
     private void jButtonClearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonClearActionPerformed
